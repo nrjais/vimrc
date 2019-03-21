@@ -4,11 +4,11 @@
 #### via curl
 
 ```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ravinderj/vimrc/master/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/nrjais/vimrc/master/install.sh)"
 ```
 
 #### via wget
 
 ```shell
-sh -c "$(wget https://raw.githubusercontent.com/ravinderj/vimrc/master/install.sh -O -)"
+sh -c "$(wget https://raw.githubusercontent.com/nrjais/vimrc/master/install.sh -O -)"
 ```

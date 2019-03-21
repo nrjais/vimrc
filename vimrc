@@ -1,4 +1,4 @@
-set runtimepath+=~/.my_vim_runtime
+set runtimepath+=~/.vim_runtime
 
 set number
 set wildmenu
